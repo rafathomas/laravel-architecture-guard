@@ -1,5 +1,5 @@
 {
-  "name": "rafaelthomas/laravel-architecture-guard",
+  "name": "rafathomas/laravel-architecture-guard",
   "description": "AST-based architectural dependency checks for Laravel and PHP projects.",
   "type": "library",
   "license": "MIT",
